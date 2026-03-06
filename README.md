@@ -1,15 +1,3 @@
-<style>
-  body {
-    background-color: #1e003a !important; /* Koyu Mor */
-    color: #f0f0f0 !important; /* Metin rengini de beyaza yakın yaptık */
-  }
-  
-  /* Linklerin rengini de mora uyumlu hale getirelim */
-  a {
-    color: #bb86fc !important;
-  }
-</style>
-
 # Merhaba, ben Sedef Elmas
 ### Front-End Developer
 

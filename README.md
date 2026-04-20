@@ -1,47 +1,43 @@
-# Merhaba, ben Sedef Elmas
-### Front-End Developer
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1b2b4b,100:58a6ff&height=200&section=header&text=Hi%20I'm%20Sedef!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Anadolu%20Üniversitesi&descAlignY=55&descSize=18)
+<div align="center">
 
-Anadolu Üniversitesi / Ön-Yüz Yazılım Geliştirme öğrencisi.
 
-## Contact Me
-<p>
-  <a href="https://www.linkedin.com/in/sedef-elmas-aa058038a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
-  <a href="https://sdfelms01-bot.github.io/portfolyo/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> 
-  <a href="https://www.instagram.com/sdfelmas/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
-</p>
+# 👋 Hi, I'm Sedef Elmas
 
-## Skills
+**Anadolu Üniversitesi · Front-End Developer**
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
-</p>
+`Building beautiful UIs, one line at a time.`
 
-## Projects
-
-### Modern Hava Durumu Kontrol Paneli
-[View Project](https://sdfelms01-bot.github.io/hava-durumu-dashboard/)
+</div>
 
 ---
 
-### Coin Dashboard
-[View Project](https://sdfelms01-bot.github.io/coin-dashboard/)
+## 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-### Kişisel Web Sitesi
-[View Project](https://sdfelms01-bot.github.io/portfolyo/)
+## 🌱 About Me
+
+> Front-End geliştirici olmak için çalışıyorum  
+> Anadolu Üniversitesi öğrencisiyim  
+> UI/UX tasarım ve React ile projeler üretiyorum  
+
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=sdfelms01-bot&show_icons=true&count_private=true&bg_color=2d1b4d&title_color=a151ff&text_color=e1daff&icon_color=a151ff" alt="GitHub İstatistikleri" />
+![Sedef's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdfelms01-bot&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdfelms01-bot&layout=compact&bg_color=2d1b4d&title_color=a151ff&text_color=e1daff" alt="En Çok Kullanılan Diller" />
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sdfelms01-bot&currTheme=tokyonight&background=2d1b4d&sideNums=a151ff&sideLabels=e1daff&dates=e1daff" alt="GitHub Streak" />
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1b2b4b&height=120&section=footer)

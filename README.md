@@ -1,39 +1,102 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1b2b4b,100:58a6ff&height=200&section=header&text=Hi%20I'm%20Sedef!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Anadolu%20Üniversitesi&descAlignY=55&descSize=18)
 <div align="center">
 
-
-# 👋 Hi, I'm Sedef Elmas
-
-**Anadolu Üniversitesi · Front-End Developer**
-
-`Building beautiful UIs, one line at a time.`
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=40&duration=3000&pause=1000&color=66FCF1&center=true&vCenter=true&width=1000&lines=Merhaba+Ben+Sedef+Elmas;Front-End+Developer;Anadolu+Universitesi+Ogrencisi;Kod+Yaziyorum+%E2%9C%A8;Hayallerimi+Gercege+Donusturuyorum+%F0%9F%9A%80" />
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=30&duration=1&pause=999999&color=66FCF1&center=true&vCenter=true&width=500&lines=MyCard" />
+
+</div>
+
+```txt
+╔════════════════════════════════════════════════════════════╗
+║                    SYSTEM ONLINE                          ║
+╠════════════════════════════════════════════════════════════╣
+║ USER       : SEDEF ELMAS                                 ║
+║ ROLE       : FRONT-END DEVELOPER                         ║
+║ UNIVERSITY : ANADOLU UNIVERSITY                          ║
+║ STATUS     : LEARNING • BUILDING • IMPROVING             ║
+╚════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-## 🌱 About Me
+<div align="center">
 
-> Front-End geliştirici olmak için çalışıyorum  
-> Anadolu Üniversitesi öğrencisiyim  
-> UI/UX tasarım ve React ile projeler üretiyorum  
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=30&duration=1&pause=999999&color=66FCF1&center=true&vCenter=true&width=500&lines=ABOUT+ME" />
 
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=20&duration=35&pause=5000&color=66FCF1&center=true&vCenter=true&multiline=true&width=1200&height=170&lines=%3E+Sedef+Elmas;%3E+Anadolu+Universitesi+On+Yuz+Yazilim+Gelistirme+Ogrencisi;%3E+Front-End+Developer;%3E+Modern+ve+Kullanici+Dostu+Arayuzler+Gelistiriyorum;%3E+Surekli+Ogreniyor+ve+Uretiyorum" />
+
+</div>
 
 ---
 
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=30&duration=1&pause=999999&color=66FCF1&center=true&vCenter=true&width=500&lines=TECH+STACK" />
 
+</div>
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,github,vscode" />
+</p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1b2b4b&height=120&section=footer)
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=30&duration=1&pause=999999&color=66FCF1&center=true&vCenter=true&width=500&lines=GITHUB+STATS" />
+
+</div>
+
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sdfelms01-bot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" />
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=sdfelms01-bot&theme=tokyonight&hide_border=true&background=000000" />
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=30&duration=1&pause=999999&color=66FCF1&center=true&vCenter=true&width=500&lines=GOALS" />
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=20&duration=40&pause=5000&color=66FCF1&center=true&vCenter=true&multiline=true&width=900&height=150&lines=%3E+Front-End+Alaninda+Uzmanlasmak;%3E+Guclu+Projeler+Gelistirmek;%3E+Acik+Kaynak+Projelerine+Katki+Saglamak;%3E+Surekli+Ogrenmek+ve+Kendimi+Gelistirmek" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=30&duration=1&pause=999999&color=66FCF1&center=true&vCenter=true&width=500&lines=CONNECT+WITH+ME" />
+
+</div>
+
+<p align="center">
+<a href="https://github.com/sdfelms01-bot">
+<img src="https://img.shields.io/badge/GitHub-66FCF1?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=24&duration=50&pause=5000&color=66FCF1&center=true&vCenter=true&width=900&lines=%22Code.+Create.+Improve.%22" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:66FCF1,100:00AEEF&height=120&section=footer"/>
